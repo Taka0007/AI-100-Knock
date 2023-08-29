@@ -1,2 +1,5 @@
 # AI-100-Knock
-実践AIモデル構築100本ノックの実装レポジトリ
+
+
+
+chap-10:https://nbviewer.org/github/Taka0007/AI-100-Knock/blob/main/code/chap10.ipynb
